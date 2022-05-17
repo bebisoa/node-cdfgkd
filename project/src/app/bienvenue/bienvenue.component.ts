@@ -10,7 +10,7 @@ export class BienvenueComponent implements OnInit {
     title: 'Bienvenue',
     subtitle: 'Bienvenue sur 02 Celsius!',
     content: 'Résultats en temps réel',
-    image: 'assets/bg00.jpg',
+    image: 'assets/02 Celsius.jpg',
   };
 
   constructor() {}
